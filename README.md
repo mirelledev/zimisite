@@ -1,5 +1,5 @@
 # Zimi - Rede Social
-
+ Um projeto feito por mim no objetivo de ganhar experiência. Espero que gostem!
 #  Tecnologias Utilizadas
 - Frontend: React, TypeScript, Redux, Tailwind CSS
 - Backend: Node.js, Express, TypeScript
@@ -55,5 +55,3 @@ Postagem:
 <div align=center>
  <img src="https://github.com/user-attachments/assets/2360379f-49a5-4c80-aeaa-e1b19b87ff87" width=300/>
 </div>
-
-# Zimi foi desenvolvido para proporcionar uma experiência de usuário fluida e moderna, aproveitando as melhores práticas de desenvolvimento. Contribuições e feedback são bem-vindos!
