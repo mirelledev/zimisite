@@ -1,9 +1,9 @@
 # Zimi - Rede Social
 
 #  Tecnologias Utilizadas
-## - Frontend: React, TypeScript, Redux
-## - Backend: Node.js, Express
-## - Banco de Dados: MongoDB
+- Frontend: React, TypeScript, Redux
+- Backend: Node.js, Express
+- Banco de Dados: MongoDB
 
 <div>
 
