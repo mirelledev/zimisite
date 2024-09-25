@@ -4,13 +4,16 @@
 - Frontend: React, TypeScript, Redux
 - Backend: Node.js, Express
 - Banco de Dados: MongoDB
+# Zimi é uma rede social onde os usuários podem se conectar e compartilhar suas experiências.
 
 <div>
 
  <img src="https://github.com/user-attachments/assets/b87c507d-a18f-4434-a141-93ab50609db7"/>
 </div>
 
-# Zimi é uma rede social onde os usuários podem se conectar e compartilhar suas experiências. Com Zimi, você pode:
+
+ ## Com Zimi, você pode:
+
  ### - Curtir e Comentar: Interaja com postagens de amigos e outros usuários através de curtidas e comentários.
  Postagem:
 ![Postagem](https://github.com/user-attachments/assets/53724833-8cc2-4c3d-af83-33f3c4545fee)
