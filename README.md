@@ -1,10 +1,10 @@
 # Zimi - Rede Social
 
 #  Tecnologias Utilizadas
-- Frontend: React, TypeScript, Redux
-- Backend: Node.js, Express
+- Frontend: React, TypeScript, Redux, Tailwind CSS
+- Backend: Node.js, Express, TypeScript
 - Banco de Dados: MongoDB
-- O projeto utiliza **Tailwind CSS** para estilização, permitindo um design responsivo e moderno através de classes utilitárias. A abordagem de *utility-first* do Tailwind facilita a criação de layouts personalizados com eficiência.
+
 # Zimi é uma rede social onde os usuários podem se conectar e compartilhar suas experiências.
 
 <div>
